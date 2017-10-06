@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdce8727-8f87-4c06-835e-72069c46cba3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/arctic-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/arctic-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/arctic-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/arctic-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/city-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/city-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/city-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/city-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/cuba-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/cuba-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/cuba-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/cuba-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/demo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/nature-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/nature-2.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/authors.yml" afterPath="$PROJECT_DIR$/_data/authors.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/settings.yml" afterPath="$PROJECT_DIR$/_data/settings.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,21 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/settings.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,9 +80,9 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-01-Welcome-to-Millennial.md" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/_data/settings.yml" />
         <option value="$PROJECT_DIR$/_data/authors.yml" />
         <option value="$PROJECT_DIR$/_site/pages/contact.html" />
+        <option value="$PROJECT_DIR$/_data/settings.yml" />
       </list>
     </option>
   </component>
@@ -186,6 +170,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -581,12 +566,20 @@
       <option name="presentableId" value="Default" />
       <updated>1507302148750</updated>
       <workItem from="1507302150484" duration="1704000" />
-      <workItem from="1507327102830" duration="388000" />
+      <workItem from="1507327102830" duration="620000" />
     </task>
+    <task id="LOCAL-00001" summary="adapting some things...">
+      <created>1507327518281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507327518281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2092000" />
+    <option name="totallyTimeSpent" value="2324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="727" extended-state="6" />
@@ -625,6 +618,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adapting some things..." />
+    <option name="LAST_COMMIT_MESSAGE" value="adapting some things..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -761,14 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/settings.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/pages/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -788,7 +777,15 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
           <folding />
         </state>
       </provider>
