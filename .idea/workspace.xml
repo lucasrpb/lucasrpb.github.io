@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdce8727-8f87-4c06-835e-72069c46cba3" name="Default" comment="changed social network URLs.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/saturn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-06-The-Saturnian-Guy.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-01-01-Welcome-to-Millennial.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/artic-4.jpg" afterPath="" />
+    <list default="true" id="bdce8727-8f87-4c06-835e-72069c46cba3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.md" afterPath="$PROJECT_DIR$/pages/about.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contact.md" afterPath="$PROJECT_DIR$/pages/contact.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -66,6 +76,7 @@
         <option value="$PROJECT_DIR$/_site/documentation/Welcome-to-Millennial.html" />
         <option value="$PROJECT_DIR$/_posts/2017-01-01-Welcome-to-Millennial.md" />
         <option value="$PROJECT_DIR$/pages/about.md" />
+        <option value="$PROJECT_DIR$/pages/contact.md" />
       </list>
     </option>
   </component>
@@ -554,7 +565,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507302148750</updated>
       <workItem from="1507302150484" duration="1704000" />
-      <workItem from="1507327102830" duration="1157000" />
+      <workItem from="1507327102830" duration="1296000" />
     </task>
     <task id="LOCAL-00001" summary="adapting some things...">
       <created>1507327518281</created>
@@ -577,11 +588,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507327799038</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="created a page about me...">
+      <created>1507328315041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507328315041</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2861000" />
+    <option name="totallyTimeSpent" value="3000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="727" extended-state="6" />
@@ -624,7 +642,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adapting some things..." />
     <MESSAGE value="changed social network URLs." />
-    <option name="LAST_COMMIT_MESSAGE" value="changed social network URLs." />
+    <MESSAGE value="created a page about me..." />
+    <option name="LAST_COMMIT_MESSAGE" value="created a page about me..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -793,22 +812,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/about.md">
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/contact.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
