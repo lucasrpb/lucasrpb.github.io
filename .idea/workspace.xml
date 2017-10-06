@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bdce8727-8f87-4c06-835e-72069c46cba3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/settings.yml" afterPath="$PROJECT_DIR$/_data/settings.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="settings.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/settings.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -566,7 +565,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507302148750</updated>
       <workItem from="1507302150484" duration="1704000" />
-      <workItem from="1507327102830" duration="620000" />
+      <workItem from="1507327102830" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="adapting some things...">
       <created>1507327518281</created>
@@ -575,11 +574,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507327518281</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed social network URLs.">
+      <created>1507327782599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507327782599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2324000" />
+    <option name="totallyTimeSpent" value="2359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="727" extended-state="6" />
@@ -621,7 +627,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adapting some things..." />
-    <option name="LAST_COMMIT_MESSAGE" value="adapting some things..." />
+    <MESSAGE value="changed social network URLs." />
+    <option name="LAST_COMMIT_MESSAGE" value="changed social network URLs." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -784,8 +791,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/settings.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
